@@ -1,0 +1,8 @@
+<a href="https://tryhackme.com/p/ag3n7" ><script src="https://tryhackme.com/badge/238151" ></script> </a>
+<a href="https://app.hackthebox.com/profile/407295" ><img src="https://www.hackthebox.com/badge/image/407295" style="width:245px;height:55px;"> </a>
+
+<a class="link1" href="https://www.instagram.com/__a.pk__/" data-toggle="tooltip" data-placement="bottom" title="Instagram"><i class="fa-brands fa-instagram" style="font-size:36px"></i></a>
+<a class="link1" href="https://www.hackerrank.com/__apk__/" data-toggle="tooltip" data-placement="bottom" title="Hackerrank"><i class="fa-brands fa-hackerrank" style="font-size:36px"></i></a>       
+<a class="link1" href="mailto:ag3n7@duck.com" data-toggle="tooltip" data-placement="bottom" title="Mail"><i class="fa-solid fa-envelope" style="font-size:36px"></i></a>
+
+          
